@@ -474,7 +474,7 @@ nav ul li ul li a {
     width: 50%;
     float: left;
     background-color: rgb(212, 211, 211);
-    margin-top: 50px;
+    margin-top: 10px;
     font-family: 'Poppins', Courier, monospace;
     padding: 20px;
 }
@@ -531,10 +531,11 @@ nav ul li ul li a {
 @media only screen and (min-width:100px) and (max-width:600px){
     .speaker_content{
         width: 100%;
+        width: 248px;
         float: none;
         padding: 26px;
-        font-size: 17px;
-        margin-left: -70px;
+        font-size: 5px;
+        margin-left: -80px;
         margin-bottom: 30px;
     }
     .flex-container{
